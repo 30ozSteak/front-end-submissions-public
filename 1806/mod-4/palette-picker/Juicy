@@ -1,0 +1,86 @@
+# Palette Picker Submission Form
+
+[Project Spec](http://frontend.turing.io/projects/palette-picker.html)
+
+# Basics
+
+#### Link to the GitHub Repository for the Project
+[palette-picker](https://github.com/30ozSteak/Juicy)
+
+#### Link to the Deployed Application
+[heroku](https://git.heroku.com/juicy-palette.git)
+
+#### Link to your annotated server file
+[annotated server file](https://github.com/30ozSteak/Juicy/blob/master/server.js)
+
+## Completion
+
+#### Were you able to complete the base functionality?
+
+There are a few gaps. One of the most noticeable missing features is the ability to display the colors of saved projects in the projects modal. 
+While I don't feel like this would be overly difficult to finish, there were just too many other gaps that needed filling before I felt confident enough in
+the app itself. 
+
+#### Link to an image of your wireframe(s)
+[wireframes](https://i.imgur.com/mG8RcXt.jpg)
+
+#### Which extensions, if any, did you complete?
+It looks super rad.
+
+# Code Quality
+
+#### Link to a specific block of your code on GitHub that you are proud of
+[happy code](https://github.com/30ozSteak/Juicy/blob/ee312dbe4d41632ad0fd7a397a6a7bcf61be3a87/public/scripts/scripts.js#L128)
+while this is iteration 0 of the project, I was pretty proud I made a very simple random color generator function. I've written one previously
+before I came to turing that was much more complex and didn't make much sense. This one is much nicer and cleaner.
+
+* Why were you proud of this piece of code?
+
+#### Link to a specific block of your code on GitHub that you feel not great about
+[sad code]()
+I'm sad it's not deployed to heroku properly! I'll have to figure out where in my get requests this is breaking. That's the sad part :(
+
+* Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
+
+It not working is a pretty big reason to not feel awesome about it. I'll need to figure out why over the next few days when I refactor/clean everything up.
+
+#### Link to Design Inspiration
+
+* Show us what you used as design inspiration (another color picker site, a dribbble UI element, a user flow, etc.) and explain what you stole from it
+
+After I (basically) made ideabox with colors, I saw this 'coin' login screen and wanted to Juicy in a similar way. so I did. There were a few other ideas that didn't get flushed out, but probably could with relative ease eventually.
+<img width="400" alt="Juicy" src="https://i.imgur.com/aOSrahP.jpg">
+<img width="400" alt="Juicy" src="https://i.imgur.com/8SQVDS1.jpg">
+<img width="400" alt="Juicy" src="https://i.imgur.com/y4LpDbh.jpg">
+
+
+#### Please feel free to ask any other questions or make any other statements below!
+
+
+# Instructor Feedback (Instructor Name)
+
+## Specification Adherence
+
+**x points**: (50 possible points)
+
+## User Interface
+
+**x points**: (20 possible points)
+
+## Commented Server File
+
+**x points**: (10 possible points)
+
+## JavaScript Style
+
+**x points**: (30 possible points)
+
+## Workflow
+
+**x points**: (20 possible points)
+
+
+### To get a 3 on this project, you need to score 95 points or higher
+### To get a 4 on this project, you need to score 115 points or higher
+
+# Final Score: x / 130
